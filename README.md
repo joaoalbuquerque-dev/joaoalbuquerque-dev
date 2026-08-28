@@ -1,6 +1,15 @@
 <h1 align="center">João Albuquerque</h1>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Backend+em+forma%C3%A7%C3%A3o;Construindo+projetos+com+Java%2C+SQL+e+JDBC;Em+busca+da+primeira+oportunidade+como+Dev+Java+J%C3%BAnior"
+    alt="Java Backend em formação"
+  />
+</p>
+
+---
+
+<p align="center">
   Olá, me chamo João Albuquerque, tenho 27 anos, Estudante de Análise e Desenvolvimento de Sistemas · Java Backend em formação
 </p>
 
