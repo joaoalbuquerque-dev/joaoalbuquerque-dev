@@ -60,7 +60,6 @@ Construir sistemas bem estruturados, evoluir como desenvolvedor e me tornar um p
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
----
 
 <p align="center">
   Aberto a oportunidades de estágio
