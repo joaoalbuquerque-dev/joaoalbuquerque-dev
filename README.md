@@ -1,6 +1,8 @@
-# Olá, me chamo João Albuquerque! 
+<h1 align="center">João Albuquerque</h1>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha carreira como **Desenvolvedor Java Backend**.
+<p align="center">
+  Olá, me chamo João Albuquerque, tenho 27 anos, Estudante de Análise e Desenvolvimento de Sistemas · Java Backend em formação
+</p>
 
 Gosto de aprender colocando a mão na massa: estudo conceitos, aplico em projetos reais e evoluo o código continuamente.
 
@@ -53,13 +55,16 @@ Construir sistemas bem estruturados, evoluir como desenvolvedor e me tornar um p
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/joao-albuquerque96/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-albuquerque96/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 ---
 
-> Construindo um sistema de cada vez.
+<p align="center">
+  Aberto a oportunidades de estágio
+</p>
 
 
 
