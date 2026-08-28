@@ -24,7 +24,7 @@ Atualmente pratico **Java**, **lógica de programação**, **Programação Orien
 Sistema de gerenciamento financeiro criado para aplicar conhecimentos de Java Backend em um projeto prático.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaoalbuquerque-dev/joaoalbuquerque-dev/main/smartfinance-preview.png" alt="Execução do SmartFinance" width="750"/>
+  <img src="https://raw.githubusercontent.com/joaoalbuquerque-dev/joaoalbuquerque-dev/main/smart-finance-preview.png" alt="Execução do SmartFinance" width="750"/>
 </p>
 
 **Tecnologias e conceitos aplicados:**
