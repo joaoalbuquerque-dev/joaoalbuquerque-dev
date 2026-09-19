@@ -1,8 +1,9 @@
+
 <h1 align="center">João Albuquerque</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Backend+em+forma%C3%A7%C3%A3o;Construindo+projetos+com+Java%2C+SQL+e+JDBC;Em+busca+da+primeira+oportunidade+como+Dev+Java+J%C3%BAnior"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0A020&center=true&vCenter=true&width=750&lines=Java+Backend+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Aprender.+Praticar.+Evoluir."
     alt="Java Backend em formação"
   />
 </p>
@@ -10,57 +11,66 @@
 ---
 
 <p align="center">
-  Olá, me chamo João Albuquerque, tenho 27 anos, Estudante de Análise e Desenvolvimento de Sistemas · Java Backend em formação
+  Estudante de Análise e Desenvolvimento de Sistemas
+  <br/>
+  Desenvolvedor Back-end Java em formação
 </p>
 
-Gosto de aprender colocando a mão na massa: estudo conceitos, aplico em projetos reais e evoluo o código continuamente.
+Gosto de aprender colocando a mão na massa: estudo conceitos, aplico em projetos próprios e evoluo meu código continuamente.
 
-## Tecnologias
+Atualmente, estou direcionando meus estudos para o ecossistema Java Back-end, com foco em desenvolvimento de APIs REST, persistência de dados e boas práticas de programação.
+
+## Tecnologias e ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA Hibernate"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-Atualmente pratico **Java**, **lógica de programação**, **Programação Orientada a Objetos**, **SQL**, **MySQL**, **JDBC** e o padrão **DAO**.
+Também venho praticando Programação Orientada a Objetos, SQL, JDBC, padrão DAO e desenvolvimento de APIs REST.
 
 ## Projeto em destaque
 
-### [SmartFinance](https://github.com/joaoalbuquerque-dev/smart-finance-jdbc)
+### SmartFinance — Gestão Financeira Pessoal
 
-Sistema de gerenciamento financeiro criado para aplicar conhecimentos de Java Backend em um projeto prático.
+Projeto pessoal em desenvolvimento, criado para praticar e aprofundar conhecimentos em Java Back-end.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaoalbuquerque-dev/joaoalbuquerque-dev/main/smart-finance-preview.png" alt="Execução do SmartFinance" width="750"/>
-</p>
+A aplicação tem como objetivo organizar contas e movimentações financeiras, utilizando uma API REST para gerenciar os dados.
 
 **Tecnologias e conceitos aplicados:**
 
 - Java e Programação Orientada a Objetos
-- SQL e MySQL
-- JDBC e padrão DAO
-- Operações CRUD
-- Relacionamentos entre entidades
-- Consultas com `JOIN` e `INNER JOIN`
-- `PreparedStatement`, `ResultSet` e tratamento de exceções
+- Spring Boot
+- Spring Data JPA / Hibernate
+- MySQL
+- Desenvolvimento de APIs REST
+- Organização em camadas e separação de responsabilidades
+- Tratamento de exceções e respostas HTTP
 - Git e GitHub
 
-## Estudando atualmente
+🔗 [Repositório SmartFinance](https://github.com/joaoalbuquerque-dev/smartfinance-springboot4-jpa)
 
-Estou avançando nos próximos passos do ecossistema Java Backend:
+> Projeto em desenvolvimento. Funcionalidades e estrutura podem evoluir ao longo do tempo.
 
-- JPA e Hibernate
-- Spring Boot
+## Aprendizado contínuo
+
+Atualmente, sigo aprofundando meus conhecimentos em:
+
+- Java e boas práticas de programação
+- Spring Boot e desenvolvimento Back-end
+- JPA/Hibernate e persistência de dados
 - APIs REST
-- Boas práticas de arquitetura e organização de código
+- Banco de dados e modelagem de dados
+
+Também estudo conteúdos complementares da graduação em Análise e Desenvolvimento de Sistemas.
 
 ## Objetivo
 
-Construir sistemas bem estruturados, evoluir como desenvolvedor e me tornar um profissional de **Java Backend**.
+Conquistar minha primeira oportunidade de estágio em desenvolvimento de software, contribuir com projetos, aprender com profissionais experientes e evoluir como desenvolvedor Java Back-end.
 
 ## Contato
 
@@ -71,7 +81,7 @@ Construir sistemas bem estruturados, evoluir como desenvolvedor e me tornar um p
 </p>
 
 <p align="center">
-  Aberto a oportunidades de estágio
+  Aberto a oportunidades de estágio em desenvolvimento de software.
 </p>
 
 
